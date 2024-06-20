@@ -1,0 +1,36 @@
+* {
+    margin: 0xp;
+    padding: 0px;
+}
+
+body {
+    background-image: linear-gradient(to left, #5c29d1, #639900);
+}
+
+.fora {
+    margin-top: 100px;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+fieldset {
+    background-color: rgb(57, 194, 228);
+    border-radius: 10px;
+    border-color: black;
+    border: 5px solid;
+}
+
+h4 {
+    text-align: center;
+    font-size: 25px;
+}
+.dentro {
+    margin-left: 150px;
+    margin-bottom: 30px;   
+}
+
+#enviar {
+    margin-left: 200px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
